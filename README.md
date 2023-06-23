@@ -1,1 +1,1 @@
-YBI internship projests
+YBI internship projects
