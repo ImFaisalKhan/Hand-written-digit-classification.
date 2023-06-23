@@ -1,1 +1,1 @@
-# Hand-written-digit-classification.
+YBI internship projests
